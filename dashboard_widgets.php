@@ -5,7 +5,7 @@ Version: 0.1.1
 Description: Remove All Of The Defaut Wordpress Widgets
 Author: WJ Carey
 Author URI: https://wjcarey.io
-Plugin URI: https://github.com/wjcarey/wordpress-admin-contact-card
+Plugin URI: https://github.com/wjcarey/wordpress-admin-remove-widgets
 License: Apache License 2.0
 */
 require_once( plugin_dir_path( __FILE__ ) . '/remove_widgets.php' );
